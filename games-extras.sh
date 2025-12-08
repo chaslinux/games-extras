@@ -39,7 +39,7 @@ sudo apt install tomatoes -y # I Have No Tomatoes 3D bomberman clone
 sudo apt install sdl-ball -y # SDL Ball Arkanoid clone
 sudo apt install sopwith -y # Sopwith Camel-like game
 sudo apt install rockdodger -y # Side scrolling version of Asteroids
-sudo apt install lutris -y # Tetris-like
+sudo apt install ltris -y # Tetris-like
 flatpak install page.codeberg.ilijaculap.snux -y # More 3D version of snake
 flatpak install com.infochunk.OpenMadoola -y # Twist on supermario
 flatpak install org.gottcode.Gottet -y # Tetris-like
