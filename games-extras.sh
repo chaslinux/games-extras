@@ -101,7 +101,7 @@ sudo apt install ri-li -y # Arcade game with train levels
 flatpak install net.zdechov.app.C-evo -y # C-evo: New Horizons
 flatpak install com.chroniclogic.Zatikon -y # Zatikon
 flatpak install io.openrct2.OpenRCT2 -y # Railroad-tycoon like
-flatpak install com.revolutionarygamestudio.Thrivelauncher -y # Thrive
+flatpak install com.revolutionarygamesstudio.ThriveLauncher -y # Thrive
 flatpak install page.codeberg.maerchenfeeimgarten.AntiBillard -y # AntiBillard
 flatpak install com.spacestation14.Launcher -y # Space Station 14
 flatpak install net.ptilouk.littlebrats -y # Little Brats
@@ -142,8 +142,8 @@ flatpak install com.holypangolin.Animatch -y # Animal match game
 sudo apt install pokerth -y # Pokerth
 sudo apt install ace-of-penguins -y # Many card games
 sudo apt install lskat -y # Lscat solitaire
-flathub install io.github.mimoguz.tripeaks_neue -y # TriPeaks Neue solitaire
-flathub install net.tabletopclub.TabletopClub -y # 3D awesome looking sandbox card/chip game
+flatpak install io.github.mimoguz.tripeaks_neue -y # TriPeaks Neue solitaire
+flatpak install net.tabletopclub.TabletopClub -y # 3D awesome looking sandbox card/chip game
 
 ### Classic board games
 sudo apt install kiriki -y # Yahtzee
