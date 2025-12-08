@@ -164,7 +164,7 @@ flatpak install org.gottcode.Connectagram -y #
 ### RPG Games
 sudo apt install crossfire-client -y # Needs a server
 sudo apt install manaplus -y # Client for The Mana World and EVOL online
-sudo apt install freedroid-rpg -y # Freedroid Role Playing Game
+sudo apt install freedroidrpg -y # Freedroid Role Playing Game
 sudo apt install freedink -y # Freedink RPG
 sudo apt install flare-game -y # Based on the Flare engine
 sudo apt install nethack-qt -y # Nethack KDE interface
@@ -191,5 +191,3 @@ flatpak install com.endlessnetwork.dragonsapprentice -y # Tux vs Dragon
 flatpak install com.voxdsp.PoryDrive -y # PoryDrive
 flatpak install org.kde.bomber -y # Bomber
 flatpak install io.github.mlm_games.asteroids_revenge -y # SHMUP
-
-
