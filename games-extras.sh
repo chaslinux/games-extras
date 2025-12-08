@@ -39,6 +39,7 @@ sudo apt install tomatoes -y # I Have No Tomatoes 3D bomberman clone
 sudo apt install sdl-ball -y # SDL Ball Arkanoid clone
 sudo apt install sopwith -y # Sopwith Camel-like game
 sudo apt install rockdodger -y # Side scrolling version of Asteroids
+sudo apt install lutris -y # Tetris-like
 flatpak install page.codeberg.ilijaculap.snux -y # More 3D version of snake
 flatpak install com.infochunk.OpenMadoola -y # Twist on supermario
 flatpak install org.gottcode.Gottet -y # Tetris-like
@@ -46,6 +47,7 @@ flatpak install org.openomf.OpenOMF -y # Remake of One Must Fall
 flatpak install org.regular_dev.biplanes_revival -y # Old Cellphone game remake
 flatpak install io.sourceforge.clonekeenplus -y # Commander Keen clone
 flatpak install com.voxdsp.PacGal -y # 3D pac-man like game, but with a Gal as the main character
+flatpak install net.hhoney.candy -y # Game similar to bubble bobble
 
 ### Platformer
 sudo apt install ddnet -y # a mod of teeworlds
@@ -59,21 +61,20 @@ sudo apt install abe -y # Abe's Amazing Adventure
 sudo apt install davegnukem -y # Duke Nukem-like
 sudo apt install asylum -y # SDL Asylum
 sudo apt install supertransball2 -y # Super Transball 2
+sudo apt install pekka-kana-2 -y # Pekka Kana 2
 flatpak install io.gitlab.jazztickets.irrlamb -y # ball platformer
 flatpak install org.srb2.SRB2 -y # Sonic Robo Blast 2 - Sonic meets Doom
 flatpak install net.hhoney.tinycrate -y # Tiny Crate
 flatpak install org.opensurge2d.OpenSurge -y # Surge Engine and game
 
 ### 2D racing games
-flatpak install github.juzzlin.DustRacing2D -y # Dust racing top-down racing
-flatpak install net.gpro.gproapp -y # racing strategy
-flatpak install com.agateau.PixelWheels -y # top down racing
-flatpak install net.huitsi.ParallelOverhead -y # parallelOverhead 3D endless runner
-
-### 3D racing games
+sudo apt install dustracing2d -y # Dust racing top-down racing
 sudo apt install supertuxkart -y
 sudo apt install torcs -y
 sudo apt install extremetuxracer -y
+flatpak install net.gpro.gproapp -y # racing strategy
+flatpak install com.agateau.PixelWheels -y # top down racing
+flatpak install net.huitsi.ParallelOverhead -y # parallelOverhead 3D endless runner
 flatpak install org.kartkrew.RingRacers -y
 
 ### Simulation
@@ -97,8 +98,13 @@ sudo apt install freeorion -y # Free Orion
 sudo apt install scorched3d -y # Scorched Earth 3D
 sudo apt install btanks -y
 sudo apt install ri-li -y # Arcade game with train levels
-
-### 3D Simulation
+flatpak install net.zdechov.app.C-evo -y # C-evo: New Horizons
+flatpak install com.chroniclogic.Zatikon -y # Zatikon
+flatpak install io.openrct2.OpenRCT2 -y # Railroad-tycoon like
+flatpak install com.revolutionarygamestudio.Thrivelauncher -y # Thrive
+flatpak install page.codeberg.maerchenfeeimgarten.AntiBillard -y # AntiBillard
+flatpak install com.spacestation14.Launcher -y # Space Station 14
+flatpak install net.ptilouk.littlebrats -y # Little Brats
 sudo apt install flightgear -y
 flatpak install com.voxdsp.TuxFishing -y
 
@@ -128,10 +134,16 @@ flatpak install io.github.nokse22.trivia-quiz -y # Trivia Quiz
 flatpak install io.github.josephmawa.Egghead -y # Egghead Trivia game
 flatpak install com.github.avojak.warble -y # Warble word guessing game
 flatpak install com.holypangolin.Animatch -y # Animal match game
+# io.github.daid.EmptyEpsilon  - space ship simulators
+# io.github.smcameron.space-nerds-in-space
+
 
 ### Card games
 sudo apt install pokerth -y # Pokerth
 sudo apt install ace-of-penguins -y # Many card games
+sudo apt install lskat -y # Lscat solitaire
+flathub install io.github.mimoguz.tripeaks_neue -y # TriPeaks Neue solitaire
+flathub install net.tabletopclub.TabletopClub -y # 3D awesome looking sandbox card/chip game
 
 ### Classic board games
 sudo apt install kiriki -y # Yahtzee
@@ -143,6 +155,11 @@ sudo apt install brutalchess -y # Chess
 sudo apt install gtkatlantic -y # Monopoly-like game
 sudo apt install blinken -y # Repeat the light sequence
 flatpak install io.github.nokse22.ultimate-tic-tac-toe -y # Ultimate Tic Tac Toe
+flatpak install org.kde.bovo -y # Connect 5 but with x's and o's
+flatpak install org.kde.kfourinline -y # Connect 4
+flatpak install org.kde.ksirk -y # Risk
+flatpak install org.kde.kmahjongg -y # KDE Mahjongg
+flatpak install org.gottcode.Connectagram -y # 
 
 ### RPG Games
 sudo apt install crossfire-client -y # Needs a server
@@ -165,14 +182,14 @@ sudo apt install tuxpuck -y # Tuxpuck 3D puck game
 sudo apt install teg -y # Take over the world
 flatpak install io.gitlab.stone_kingdoms.StoneKingdoms -y # Stone Kingdoms
 
-### Simple Games
-flatpak install com.adilhanney.ricochlime -y # Richochlime
-
 ### Sports Games
 sudo apt install tuxfootball -y # Tux football
 
 ### Action/Arcade Games
+flatpak install com.adilhanney.ricochlime -y # Richochlime
 flatpak install com.endlessnetwork.dragonsapprentice -y # Tux vs Dragon
 flatpak install com.voxdsp.PoryDrive -y # PoryDrive
+flatpak install org.kde.bomber -y # Bomber
+flatpak install io.github.mlm_games.asteroids_revenge -y # SHMUP
 
 
